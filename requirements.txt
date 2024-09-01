@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+seaborn
+plotly
+nbformat
+scikit-learn
+statsmodels
+ipykernel
