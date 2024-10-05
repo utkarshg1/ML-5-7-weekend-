@@ -1,0 +1,6 @@
+Manufacturer,Model,Type,Min.Price,Price,Max.Price,MPG.city,MPG.highway,AirBags,DriveTrain,Cylinders,EngineSize,Horsepower,RPM,Rev.per.mile,Man.trans.avail,Fuel.tank.capacity,Passengers,Length,Wheelbase,Width,Turn.circle,Rear.seat.room,Luggage.room,Origin,Make
+Audi,100,Midsize,30.8,37.7,44.6,19,26,,Front,6,2.8,172,5500,2535,Yes,15,6,190,106,65,37,31,17,non-USA,Audi 100
+Pontiac,Sunbird,Compact,9.4,11.1,12.8,23,31,None,Front,4,2,110,5200,2665,Yes,15.2,5,181,101,66,39,25,13,USA,Pontiac Sunbird
+Chevrolet,Lumina,Midsize,13.4,15.9,18.4,21,29,None,Front,4,2.2,110,5200,2595,No,16.5,6,198,108,71,40,28.5,16,USA,Chevrolet Lumina
+Mazda,RX-7,Sporty,32.5,32.5,32.5,17,25,Driver only,Rear,rotary,1.3,255,6500,2325,Yes,20,2,169,96,69,37,,,non-USA,Mazda RX-7
+Volkswagen,Fox,Small,8.7,9.1,9.5,25,33,None,Front,4,1.8,81,5500,2550,Yes,12.4,4,163,93,63,34,26,10,non-USA,Volkswagen Fox
